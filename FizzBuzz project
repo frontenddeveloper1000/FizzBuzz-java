@@ -1,5 +1,5 @@
 class FizzBuzz{
-public static void man(String[]args){
+public static void main(String[]args){
 for(int i=1; i<=100; i++){
 if (i%15==00){
 System.out.println("Fizzbuzz");}
